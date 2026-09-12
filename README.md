@@ -105,3 +105,7 @@ For website terms of use, trademark policy and other project policies please see
 [31]: https://velero.io/docs/start-contributing
 [32]: https://github.com/velero-io/.github/blob/main/GOVERNANCE.md
 [100]: https://velero.io/docs/main/img/velero.png
+
+## Operations checklist
+
+See [the operations guide](OPERATIONS.md) for focused validation and troubleshooting checks.
