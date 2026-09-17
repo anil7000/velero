@@ -48,7 +48,7 @@ recorded timestamps. Do not publish invented RPO/RTO numbers from status alone.
 
 See the [README](README.md) for installation and versioned documentation.
 
-## Development note
+## Attribution
 
-This recovery checklist was added with AI assistance. Upstream code, licenses
+Upstream code, licenses
 and contributor attribution remain unchanged.
